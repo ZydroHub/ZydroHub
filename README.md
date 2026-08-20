@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on NOVA<br>Currently learning React<br>I know English, Swedish and a little bit of spannish<br>I'm from Sweden
+Currently working on NOVA<br>Currently learning React<br>I know English, Swedish and a little bit of Spanish<br>I'm from Sweden
 
 
 # 💻 Tech Stack:
